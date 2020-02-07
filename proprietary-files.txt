@@ -44,10 +44,10 @@ vendor/lib/libcsd-client.so
 vendor/lib/libqtigef.so
 
 # Audio - hardware
-vendor/lib/hw/audio.primary.sdm845.so|fd66c3a0ac1b9c5e7f198f5b4f3f383e83538546
+vendor/lib/hw/audio.primary.sdm845.so
 vendor/lib/libaudio_log_utils.so
 vendor/lib/libtinycompress_vendor.so
-vendor/lib64/hw/audio.primary.sdm845.so|581ddd7721437c283cad30c289e0a127e31025f9
+vendor/lib64/hw/audio.primary.sdm845.so
 vendor/lib64/libaudio_log_utils.so
 vendor/lib64/libtinycompress_vendor.so
 
